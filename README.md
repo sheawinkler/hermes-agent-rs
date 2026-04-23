@@ -1,5 +1,7 @@
 # Hermes Agent (Rust)
-
+# ---------------------------------------
+# FUTURE WORK MOVED TO: [HERMES-AGENT-ULTRA](https://github.com/sheawinkler/hermes-agent-ultra)
+# ---------------------------------------
 **[English](./README.md)** | **[中文](./README_ZH.md)** | **[日本語](./README_JA.md)** | **[한국어](./README_KO.md)**
 
 A production-grade Rust rewrite of [Hermes Agent](https://github.com/NousResearch/hermes-agent) — the self-improving AI agent by [Nous Research](https://nousresearch.com).
